@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@import './tokens/index.css';
+
+/* 테스트입닏다. 수정반영 */
+.test {
+  color: #000;
+}
